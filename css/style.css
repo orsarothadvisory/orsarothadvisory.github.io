@@ -4294,9 +4294,9 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  margin-right: 0.5rem;
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
@@ -9910,7 +9910,7 @@ h6,
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  padding: 30px 15px;
+  padding: 20px 15px;
   color: #ffffff;
   font-weight: 600;
   outline: none;
